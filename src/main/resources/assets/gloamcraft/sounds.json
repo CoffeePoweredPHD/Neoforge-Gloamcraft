@@ -1,0 +1,11 @@
+{
+  "final_day": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "gloamcraft:final_day",
+        "stream": true
+      }
+    ]
+  }
+}

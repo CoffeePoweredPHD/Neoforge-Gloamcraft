@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": "minecraft:closed_eyeblossom",
+    "E": "minecraft:open_eyeblossom",
+    "H": "minecraft:creaking_heart",
+    "O": "minecraft:obsidian"
+  },
+  "pattern": [
+    " E ",
+    "eHe",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "gloamcraft:dark_effigy"
+  }
+}
